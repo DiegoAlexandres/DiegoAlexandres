@@ -2,10 +2,9 @@
 
 ### Software Engineer | Data Scientist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoalexandres/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/openbi.inteligencia/)
-[![OpenBI](https://img.shields.io/badge/OpenBI-7C5CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://openbiinteligencia.com.br/)
-
+<a href="https://www.linkedin.com/in/diegoalexandres/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/openbi.inteligencia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://openbiinteligencia.com.br/" target="_blank"><img src="https://img.shields.io/badge/OpenBI-7C5CBF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 Fundador da **OpenBI**, consultoria de inteligência e estratégia de dados. Construo soluções de ponta a ponta, da arquitetura de dados em cloud até produtos de software que colocam esses dados em ação.
 
